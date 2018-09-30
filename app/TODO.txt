@@ -1,0 +1,4 @@
+* animated svg for button
+* set fragments instead of just layouts
+* delete images
+* add presenters
