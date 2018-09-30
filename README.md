@@ -1,3 +1,3 @@
 # BottomSliderLayout
 
-![](BottomSliderDemo.gif)
+![](app/BottomSliderDemo.gif)
